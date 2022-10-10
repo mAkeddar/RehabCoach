@@ -1,0 +1,95 @@
+{
+    "Onboarding": {
+      "title": "App Ictus",
+      "subtitle": "Benvenuto!",
+      "next": "Avanti",
+      "chooseLanguage": "Seleziona una lingua",
+      "chooseCoach": "Scegli il tuo allenatore",
+      "welcome": "Bella scelta!\n\nSarò felice di accompagnarti  come tuo allenatore digitale!",
+      "start": "Cominciamo!",
+      "checkQrUsageSubtitle": "Come vuoi procedere?",
+      "qrAvailable": "Con il codice QR",
+      "qrNotAvailable": "Senza codice QR"
+    },
+    "participantInformations":{
+        "name":"Nome",
+        "type":"Sai digitare su un telefono?",
+        "walk":"Puoi camminare?",
+        "yes":"Sì",
+        "no":"No",
+        "enterInformation":"Inserisci le informazioni",
+        "MissingInfo": "Si prega di compilare tutte le voci"
+      },
+      "Badges":{
+        "firstC":"Congratulazioni! Hai completato la prima sessione!",
+        "secondC":"Bel lavoro! Hai completato il primo giorno con il tuo coach!",
+        "thirdC":"Congratulazioni! Hai completato 3 giorni di allenamento di fila.",
+        "fourthC":"Congratulazioni! Hai completato 5 giorni di allenamento di fila.",
+        "fifthC":"Ben fatto! Hai completato il tuo primo allenamento senza supervisione!",
+        
+        "first":"Completare la prima sessione",
+        "second":"Completa il tuo primo giorno di coaching",
+        "third":"3 allenamenti di fila!",
+        "fourth":"3 allenamenti di fila!",
+        "fifth":"Completa la tua prima sessione di allenamento con il pulsante Voglio allenarmi"
+      },
+      "Exercises":{
+        "add":"Aggiungi un esercizio",
+        "missing":"Per favore completa tutte le informazioni",
+        "confirm":"Conferma",
+        "close":"Annullare",
+        "title":"Qui troverete gli esercizi proposti dal vostro terapeuta"
+      },
+    "Coaches": {
+      "0": "Luca",
+      "1": "Emma"
+    },
+    "Chat": {
+      "title": "Scrivi a {{coach}}",
+      "loadEarlier": "Carica messaggi precedenti...",
+      "emptyChatMessage": "Questo messaggio di testo è vuoto.",
+      "webButtonTitle":"Guarda il video"
+    },
+    "DashboardChat": {
+      "title": "Scrivi al supervisore",
+      "placeholder": "Scrivi il tuo messaggio qui",
+      "send": "Invia",
+      "user": {
+        "1": "Partecipante",
+        "2": "Supervisore"
+      }
+    },
+    "ConnectionStates": {
+      "connectionToCoach": "Connessione con l’allenatore",
+      "offlineNotice": "Per contattare l’allenatore,\nhai bisogno di una connessione internet.",
+      "initialized": "Al momento non è possibile raggiungere l’allenatore. Non appena ti connetterai di nuovo ad una rete internet, la connessione sarà ristabilita.",
+      "connecting": "Connessione con l’allenatore in corso...",
+      "connected": "Controlliamo cosa è successo dall’ultima connessione con l’allenatore...",
+      "synchronized": "Sei connesso con l’allenatore."
+    },
+    "gridMenu":{
+        "seeYou" : "Felice di rivederti! Ecco il tuo programma giornaliero",
+        "schedule" : "Programma giornaliero",
+        "checklist": "Checklist",
+        "learn":"Documenti",
+        "profile":"Profilo",
+        "chat":"Chat",
+        "wanTrain":"Voglio allenarmi ora !",
+        "session":"Avete già una sessione in corso con il coach"
+      },
+    "profile":{
+      "dailyPoints":"Punti giornalieri!",
+      "totalPoints":"Punti totali",
+      "badges":"Distintivi"
+    },
+    "checklist":{
+      "learningSession":"Sessione d'informazione",
+      "exerciceSession":"Sessione di escercizi",
+      "title":"Questi sono i tuoi obiettivi per la giornata ",
+      "learningNext":"La prossima sessione di informazione è fissata per ",
+      "trainingNext": "La prossima sessione di allenamento con è prevista per ",
+      "learningDone":"Ben fatto! Avete partecipato alla sessione di apprendimento di oggi",
+      "trainingDone":"Complimenti per la sessione di esercizi!"
+    }
+
+   }

@@ -1,0 +1,201 @@
+{
+    "Onboarding": {
+      "title": "Stroke App",
+      "subtitle": "Bienvenue!",
+      "next": "Suivant",
+      "chooseLanguage": "Veuillez choisir une langue",
+      "chooseCoach": "Veuillez choisir un coach",
+      "welcome": "Bon choix!\n\nJe suis heureux de vous accompagner en tant que coach digital",
+      "start": "C'est parti",
+      "checkQrUsageSubtitle": "Hast du einen OR-Code, wie oben abgebildet erhalten, um diese App zu nutzen?",
+      "qrAvailable": "Ja, ich habe einen QR-Code",
+      "qrNotAvailable": "Nein, ich habe keinen QR-Code"
+    },
+    "participantInformations":{
+      "name":"Nom",
+      "type":"Pouvez-vous écrire sur un téléphone ?",
+      "walk":"Pouvez-vous marcher ?",
+      "yes":"Oui",
+      "no":"Non",
+      "enterInformation":"Veuillez entrer vos informations",
+      "MissingInfo": "Vous n'avez pas compléter tous les champs"
+    },
+    "gridMenu" : {
+      "seeYou" : "Heureux de vous revoir ! Voici votre emploi du temps quotidien",
+      "schedule" : "Programme du jour",
+      "checklist" : "Checklist",
+      "learn" : "Apprentissage",
+      "profile" : "Profile",
+      "chat":"Chat",
+      "wanTrain":"Je veux m'entrainer !",
+      "session":"Vous avez déjà une session en cours avec le coach"
+    },
+    "profile":{
+      "dailyPoints":"Points Quotidien!",
+      "totalPoints":"Total des Points",
+      "badges":"Badges"
+    },
+    "checklist":{
+      "learningSession":"Session d'apprentissage",
+      "exerciceSession":"Session d'exercice",
+      "title":"Voici vos objectifs de la journée",
+      "learningNext":"La prochaine session d'apprentissage avec est fixée à ",
+      "trainingNext" : "La prochaine session de formation avec est fixée à ",
+      "learningDone":" Bien joué ! Vous avez participé à la session d'apprentissage d'aujourd'hui",
+      "trainingDone":" Bravo ! Vous avez assisté à la séance d'entrainement du jour"
+    },
+    "Badges":{
+      "firstC":"Félicitations ! Vous avez terminé votre première session",
+      "secondC":"Félicitations ! Vous avez terminé votre première journée de coaching",
+      "thirdC":"Félicitations ! Vous avez complété 3 jours d'entraînement d'affilée",
+      "fourthC":"Félicitations ! Vous avez complété 5 jours d'entraînement d'affilée",
+      "fifthC":"Félicitations ! Vous avez terminé votre premier entraînement par vous-même",
+      "first":"Compléter la première session",
+      "second":"Compléter la première journée de coaching",
+      "third":"3 entraînements d'affilées!",
+      "fourth":"3 entraînements d'affilées!",
+      "fifth":"Compléter une session d'entraînement en cliquant sur le bouton je veux m'entrainer"
+    },
+    "Exercises":{
+      "add":"Ajouter un exercice",
+      "missing":"Veuillez entrer toutes les informations",
+      "confirm":"Confimer",
+      "close":"Annuler",
+      "title":"Ici vous allez trouver les exercices proposés par votre thérapiste"
+    },
+    "Coaches": {
+      "0": "Lukas",
+      "1": "Anna"
+    },
+    "Chat": {
+      "title": "Chat avec {{coach}}",
+      "loadEarlier": "Chargement des anciens messages",
+      "emptyChatMessage": "Ceci est un message vide.",
+      "webButtonTitle":"Regarder la video"
+    },
+    "DashboardChat": {
+      "title": "Chat avec votre superviseur",
+      "placeholder": "Veuillez écrire votre message",
+      "send": "Envoyer",
+      "user": {
+        "1": "Teilnehmer",
+        "2": "Betreuer"
+      }
+    },
+    "ConnectionStates": {
+      "connectionToCoach": "Connexion avec le coach",
+      "offlineNotice": "Afin d'établir la connexion,\nvous avez besoin d'une connection internet.",
+      "initialized": "Il n'y a actuellement aucune connexion avec le coach. Dès que vous aurez à nouveau une connexion Internet active, la connexion sera rétablie.",
+      "connecting": "Connection en cours...",
+      "connected": "Vérification des événements depuis la dernière connexion...",
+      "synchronized": "Vous êtes connecté au coach."
+    },
+    "Reminder": {
+      "title": "Rappel"
+    },
+    "Settings": {
+      "header": "Einstellungen",
+      "personalTitle": "Persönlich",
+      "impressumTitle": "Impressum",
+      "yes": "Ja, sicher",
+      "no": "Nein",
+      "recommend": "App weiter empfehlen",
+      "feedbackForm": {
+        "title": "Feedback",
+        "emailInput": "Email Adresse für Rückfragen (optional)",
+        "feedbackInput": "Feedback/Fehlerbeschreibung",
+        "nameInput": "Name (optional)",
+        "submit": "Senden",
+        "submitMessage": "Merci. Ihr Feedback hilft uns dabei, die App weiter zu verbessern.",
+        "errorMessage": "Bitte ein Feedback eingeben."
+      },
+      "impressum": {
+        "title1": "Text 1",
+        "copytext1": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "title2": "Text 2",
+        "copytext2": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "title3": "Text 3",
+        "copytext3": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "title4": "Text 4",
+        "copytext4": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+      }
+    },
+    "InfoCardsLibrary": {
+      "header": "Infokarten",
+      "noDataTitle": "Noch keine Einträge",
+      "noInfoCardsData": "Hier werden deine gesammelten Informationen in Form von Infokarten gespeichert. Dein Coach wird hier bald erste Informationen für dich ablegen."
+    },
+    "MediaLibrary": {
+      "header": "Mediathek",
+      "noDataTitle": "Noch keine Einträge",
+      "noVideoData": "Hier werden deine gesammelten Videos gespeichert."
+    },
+    "Menu": {
+      "Chat": "Chat mit {{coach}}",
+      "DashboardChat": "Chat mit Betreuer",
+      "InfoCardsLibrary": "Infokarten",
+      "Faq": "Häufige Fragen",
+      "MediaLibrary": "Mediathek",
+      "Settings": "Einstellungen",
+      "Disabled": "Disabled"
+    },
+    "Common": {
+      "date": "Datum",
+      "time": "Uhrzeit",
+      "information": "Information",
+      "selectManyTitle": "Antwortoptionen auswählen",
+      "selectManySubtitle": "Bitte wähle alle zutreffenden Antworten aus:",
+      "abort": "Abbrechen",
+      "answerExpired": "Antwort nicht mehr möglich",
+      "backButton": "Zweimal drücken zum Beenden der App",
+      "back": "Zurück",
+      "confirm": "Bestätigen",
+      "invalid": "Ungültiger Wert",
+      "validationError": "Bitte trage einen gültigen Wert ein.",
+      "expiryNotice": "Diese Frage kann nicht mehr beantwortet werden.",
+      "ok": "OK",
+      "close": "Schliessen",
+      "chooseAtLeastOne": "Bitte wähle die passende Anzahl an Antworten.",
+      "chooseDate": "Datum auswählen",
+      "save": "Übernehmen",
+      "thanks": "Vielen Dank!",
+      "and": "und",
+      "datePicker": {
+        "outOfRange": "Bitte wähle einen Zeitpunkt zwischen"
+      },
+      "recordPhoto": "Foto machen",
+      "recordAudio": "Aufnahme starten",
+      "recordVideo": "Video aufnehmen",
+      "scanQRCode": "QR-Code scannen",
+      "confirmPhoto": "Foto bestätigen",
+      "confirmVideo": "Video bestätigen",
+      "permissionsAudio": "Zur Aufzeichnung von Audio-Aufnahmen werden Zugriffsrechte auf das Mikrofon benötigt",
+      "retry": "Wiederholen",
+      "pressToRecord": "Drücke um zu starten",
+      "pressToStop": "Drücke um zu stoppen",
+      "Information": "Information"
+    },
+    "Faq": {
+      "header": "Häufige Fragen",
+      "faqTitle": "Häufige Fragen an XY",
+      "questions": {
+        "1": {
+          "title": "Test Frage 1?",
+          "answer": "Test Antwort 1"
+        },
+        "2": {
+          "title": "Test Frage 2?",
+          "answer": "Test Antwort 2"
+        },
+        "3": {
+          "title": "Test Frage 3?",
+          "answer": "Test Antwort 3"
+        },
+        "4": {
+          "title": "Test Frage 4?",
+          "answer": "Test Antwort 4"
+        }
+      }
+    }
+  }
+  

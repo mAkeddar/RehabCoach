@@ -1,0 +1,185 @@
+{
+  "Onboarding": {
+    "title": "Stroke App",
+    "subtitle": "Herzlich willkommen!",
+    "next": "Weiter",
+    "chooseLanguage": "Bitte wähle deine bevorzugte Sprache",
+    "chooseCoach": "Suche dir einen Coach aus",
+    "welcome": "Tolle Wahl!\n\nIch freue mich, dich als dein digitaler Coach begleiten zu dürfen.",
+    "start": "Los geht's",
+    "checkQrUsageSubtitle": "Hast du einen OR-Code, wie oben abgebildet erhalten, um diese App zu nutzen?",
+    "qrAvailable": "Ja, ich habe einen QR-Code",
+    "qrNotAvailable": "Nein, ich habe keinen QR-Code"
+    
+  },
+  "participantInformations":{
+    "name":"Name",
+    "type":"Können Sie auf einem Telefon tippen?",
+    "walk":"Können Sie laufen?",
+    "yes":"Ja",
+    "no":"Nein",
+    "MissingInfo": "Bitte füllen Sie alle Felder aus",
+    "enterInformation":"Bitte geben Sie Ihre Informationen ein"
+  },
+
+  "Exercises":{
+    "add":"Eine Übung hinzufügen",
+    "missing":"Bitte füllen Sie alle Einträge aus",
+    "confirm":"Bestätigen",
+    "close":"Bildschirm schließen"
+  },
+  "gridMenu":{
+    "seeYou" : "Schön, Sie wiederzusehen! Hier ist Ihr Tagesplan",
+    "schedule" : "Täglicher Zeitplan",
+    "checklist": "Checkliste",
+    "learn": "Lernen",
+    "profile": "Profile",
+    "chat":"Chat",
+    "wanTrain": "Ich will üben!"
+  },
+  "profile":{
+    "dailyPoints":"Tagespunkte!",
+    "totalPoints":"Gesamtpunkte",
+    "badges":"Abzeichen"
+  },
+  "checklist":{
+    "learningSession":"Lern-Session",
+    "exerciceSession":"Trainingssitzung",
+    "learningNext": "Die nächste Lerneinheit mit ist festgelegt auf ",
+    "trainingNext": "Die nächste Lernsitzung mit ist angesetzt auf "
+  },
+  "Coaches": {
+    "0": "Lukas",
+    "1": "Anna"
+  },
+  "Chat": {
+    "title": "Chat mit {{coach}}",
+    "loadEarlier": "Ältere Mitteilungen anzeigen",
+    "emptyChatMessage": "Der Coach wird sich in Kürze mit dir in Verbindung setzen.",
+    "webButtonTitle":"Video ansehen"
+  },
+  "DashboardChat": {
+    "title": "Chat mit Betreuer",
+    "placeholder": "Bitte Nachricht eingeben",
+    "send": "Senden",
+    "user": {
+      "1": "Teilnehmer",
+      "2": "Betreuer"
+    }
+  },
+  "ConnectionStates": {
+    "connectionToCoach": "Verbindung zum Coach",
+    "offlineNotice": "Damit dein Coach erreichbar ist,\nbenötigst du eine Internetverbindung.",
+    "initialized": "Es besteht momentan keine Verbindung zum Coach. Sobald du wieder eine aktive Internetverbindung hast, wird die Verbindung wieder hergestellt.",
+    "connecting": "Verbindung zum Coach wird aufgebaut...",
+    "connected": "Es wird abgeglichen was seit der letzten Verbindung zum Coach passiert ist...",
+    "synchronized": "Du bist mit dem Coach verbunden."
+  },
+  "Reminder": {
+    "title": "Erinnerung"
+  },
+  "Settings": {
+    "header": "Einstellungen",
+    "personalTitle": "Persönlich",
+    "impressumTitle": "Impressum",
+    "yes": "Ja, sicher",
+    "no": "Nein",
+    "recommend": "App weiter empfehlen",
+    "feedbackForm": {
+      "title": "Feedback",
+      "emailInput": "Email Adresse für Rückfragen (optional)",
+      "feedbackInput": "Feedback/Fehlerbeschreibung",
+      "nameInput": "Name (optional)",
+      "submit": "Senden",
+      "submitMessage": "Merci. Ihr Feedback hilft uns dabei, die App weiter zu verbessern.",
+      "errorMessage": "Bitte ein Feedback eingeben."
+    },
+    "impressum": {
+      "title1": "Text 1",
+      "copytext1": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+      "title2": "Text 2",
+      "copytext2": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+      "title3": "Text 3",
+      "copytext3": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+      "title4": "Text 4",
+      "copytext4": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+    }
+  },
+  "InfoCardsLibrary": {
+    "header": "Infokarten",
+    "noDataTitle": "Noch keine Einträge",
+    "noInfoCardsData": "Hier werden deine gesammelten Informationen in Form von Infokarten gespeichert. Dein Coach wird hier bald erste Informationen für dich ablegen."
+  },
+  "MediaLibrary": {
+    "header": "Mediathek",
+    "noDataTitle": "Noch keine Einträge",
+    "noVideoData": "Hier werden deine gesammelten Videos gespeichert."
+  },
+  "Menu": {
+    "Chat": "Chat mit {{coach}}",
+    "DashboardChat": "Chat mit Betreuer",
+    "InfoCardsLibrary": "Infokarten",
+    "Faq": "Häufige Fragen",
+    "MediaLibrary": "Mediathek",
+    "Settings": "Einstellungen",
+    "Disabled": "Disabled"
+  },
+  "Common": {
+    "date": "Datum",
+    "time": "Uhrzeit",
+    "information": "Information",
+    "selectManyTitle": "Antwortoptionen auswählen",
+    "selectManySubtitle": "Bitte wähle alle zutreffenden Antworten aus:",
+    "abort": "Abbrechen",
+    "answerExpired": "Antwort nicht mehr möglich",
+    "backButton": "Zweimal drücken zum Beenden der App",
+    "back": "Zurück",
+    "confirm": "Bestätigen",
+    "invalid": "Ungültiger Wert",
+    "validationError": "Bitte trage einen gültigen Wert ein.",
+    "expiryNotice": "Diese Frage kann nicht mehr beantwortet werden.",
+    "ok": "OK",
+    "close": "Schliessen",
+    "chooseAtLeastOne": "Bitte wähle die passende Anzahl an Antworten.",
+    "chooseDate": "Datum auswählen",
+    "save": "Übernehmen",
+    "thanks": "Vielen Dank!",
+    "and": "und",
+    "datePicker": {
+      "outOfRange": "Bitte wähle einen Zeitpunkt zwischen"
+    },
+    "recordPhoto": "Foto machen",
+    "recordAudio": "Aufnahme starten",
+    "recordVideo": "Video aufnehmen",
+    "scanQRCode": "QR-Code scannen",
+    "confirmPhoto": "Foto bestätigen",
+    "confirmVideo": "Video bestätigen",
+    "permissionsAudio": "Zur Aufzeichnung von Audio-Aufnahmen werden Zugriffsrechte auf das Mikrofon benötigt",
+    "retry": "Wiederholen",
+    "pressToRecord": "Drücke um zu starten",
+    "pressToStop": "Drücke um zu stoppen",
+    "Information": "Information"
+  },
+  "Faq": {
+    "header": "Häufige Fragen",
+    "faqTitle": "Häufige Fragen an XY",
+    "questions": {
+      "1": {
+        "title": "Test Frage 1?",
+        "answer": "Test Antwort 1"
+      },
+      "2": {
+        "title": "Test Frage 2?",
+        "answer": "Test Antwort 2"
+      },
+      "3": {
+        "title": "Test Frage 3?",
+        "answer": "Test Antwort 3"
+      },
+      "4": {
+        "title": "Test Frage 4?",
+        "answer": "Test Antwort 4"
+      }
+    }
+  }
+}

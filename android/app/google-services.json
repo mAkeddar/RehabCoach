@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852600761822",
+    "project_id": "strokeapp-adfbc",
+    "storage_bucket": "strokeapp-adfbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852600761822:android:c4a72d2b5df235aae9014f",
+        "android_client_info": {
+          "package_name": "org.c4dhi.strokeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852600761822-i3thc7gvatl8kj56sc2rqics9aga8ja9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ-i5ytsWQCxX_hyMWpieFXwjcMnKty-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852600761822-i3thc7gvatl8kj56sc2rqics9aga8ja9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

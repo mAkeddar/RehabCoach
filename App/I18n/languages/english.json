@@ -1,0 +1,201 @@
+{
+  "Onboarding": {
+    "title": "Stroke App",
+    "subtitle": "A warm welcome!",
+    "next": "Next",
+    "chooseLanguage": "Please choose the language",
+    "chooseCoach": "Please choose your coach",
+    "welcome": "Great choice!\n\nI am happy to accompany you as your digital coach.",
+    "start": "Let's go",
+    "checkQrUsageSubtitle": "How do you want to proceed?",
+    "qrAvailable": "With QR-Code",
+    "qrNotAvailable": "Without QR-Code"
+  },
+  "participantInformations":{
+    "name":"Name",
+    "type":"Can you type on a phone?",
+    "walk":"Can you walk?",
+    "yes":"Yes",
+    "no":"No",
+    "enterInformation":"Please enter your information",
+    "MissingInfo": "Please fill all the entries"
+  },
+  "Badges":{
+    "firstC":"Congrats ! You completed your first session",
+    "secondC":"Congrats! you completed your first day of coaching",
+    "thirdC":"Congrats ! You completed 3 days of training in a row",
+    "fourthC":"Congrats! you completed 5 days of training in a row",
+    "fifthC":"Congrats! you completed your first training by yourself",
+
+    "first":"Complete your first session",
+    "second":"Complete your first day of coaching",
+    "third":"3 trainings in a row !",
+    "fourth":"5 trainings in a row !",
+    "fifth":"Complete your first training session with the I want to train button"
+  },
+  "Exercises":{
+    "add":"Add exercise",
+    "missing":"Please fill all the entries",
+    "confirm":"Confirm",
+    "close":"Close screen",
+    "title":"Here you will find the exercises proposed by your therapist"
+  },
+  "Coaches": {
+    "0": "Lukas",
+    "1": "Anna"
+  },
+  "Chat": {
+    "title": "Chat with {{coach}}",
+    "loadEarlier": "Load earlier messages...",
+    "emptyChatMessage": "This is a empty chat message.",
+    "webButtonTitle":"Watch Video"
+  },
+  "DashboardChat": {
+    "title": "Chat with Supervisor",
+    "placeholder": "Please enter your message",
+    "send": "Send",
+    "user": {
+      "1": "Participant",
+      "2": "Supervisor"
+    }
+  },
+  "ConnectionStates": {
+    "connectionToCoach": "Connection to the coach",
+    "offlineNotice": "To reach your coach,\nyou need an internet connection.",
+    "initialized": "There is currently no connection to the coach. As soon as you have an active internet connection again, the connection will be re-established.",
+    "connecting": "Connection to the coach in progress...",
+    "connected": "It checks what's happened since the last connection to the coach...",
+    "synchronized": "You're connected to the coach."
+  },
+  "Reminder": {
+    "title": "Reminder"
+  },
+  "gridMenu":{
+    "seeYou" : "Happy to see you again! Here's your daily schedule",
+    "schedule" : "Daily Schedule",
+    "checklist": "Checklist",
+    "learn":"Learn",
+    "profile":"Profile",
+    "chat":"Chat",
+    "wanTrain":"I want to practice !",
+    "session":"You already have a session in progress with the coach"
+  },
+  "profile":{
+    "dailyPoints":"Daily Points!",
+    "totalPoints":"Total Points",
+    "badges":"Badges"
+  },
+  "checklist":{
+    "learningSession":"Learning Session",
+    "exerciceSession":"Exercice Session",
+    "title":"These are your goals for the day",
+    "learningNext":"The next learning session with is set at ",
+    "trainingNext":"The next training session with is set at ",
+    "learningDone":"Congratulations! You have attended today's learning session",
+    "trainingDone":"Congratulations! You attended today's training session"
+  },
+  "Settings": {
+    "header": "Settings",
+    "personalTitle": "Personal",
+    "impressumTitle": "Legal Disclosure",
+    "yes": "Yes",
+    "no": "No",
+    "recommend": "Recommend App",
+    "feedbackForm": {
+      "title": "Feedback",
+      "emailInput": "Email address for further questions (optional)",
+      "feedbackInput": "Feedback/error description",
+      "nameInput": "Name (optional)",
+      "submit": "Submit",
+      "submitMessage": "Thanks. Your feedback helps us to further improve the app.",
+      "errorMessage": "Please enter your feedback."
+    },
+    "impressum": {
+      "title1": "Text 1",
+      "copytext1": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+      "title2": "Text 2",
+      "copytext2": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+      "title3": "Text 3",
+      "copytext3": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+      "title4": "Text 4",
+      "copytext4": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+    }
+  },
+  "InfoCardsLibrary": {
+    "header": "Infocards",
+    "noDataTitle": "No entries yet",
+    "noInfoCardsData": "Here your collected information is stored in the form of info cards. Your coach will soon file the first information for you here."
+  },
+  "MediaLibrary": {
+    "header": "Media Library",
+    "noDataTitle": "No entries yet",
+    "noVideoData": "This is where your collected videos are stored."
+  },
+  "Menu": {
+    "Chat": "Chat with {{coach}}",
+    "DashboardChat": "Chat with Supervisor",
+    "InfoCardsLibrary": "Infocards",
+    "MediaLibrary": "Media Library",
+    "Faq": "Frequently Asked Questions",
+    "Settings": "Settings",
+    "Disabled": "Disabled"
+  },
+  "Common": {
+    "date": "date",
+    "time": "time",
+    "information": "Information",
+    "selectManyTitle": "Select answer options",
+    "selectManySubtitle": "Please select all matching answers:",
+    "abort": "Abort",
+    "answerExpired": "Answer no longer possible",
+    "backButton": "Press twice to exit the app",
+    "back": "Back",
+    "confirm": "Confirm",
+    "invalid": "Invalid value",
+    "validationError": "Please enter a valid value.",
+    "expiryNotice": "This question can no longer be answered.",
+    "ok": "OK",
+    "close": "Close",
+    "chooseAtLeastOne": "Please select the appropriate number of answers.",
+    "chooseDate": "Choose date",
+    "save": "Save",
+    "thanks": "Thanks!",
+    "and": "and",
+    "datePicker": {
+      "outOfRange": "Please choose a time between"
+    },
+    "recordPhoto": "Record photo",
+    "recordAudio": "Record audio",
+    "recordVideo": "Record video",
+    "scanQRCode": "Scan QR code",
+    "confirmPhoto": "Confirm photo",
+    "confirmVideo": "Confirm video",
+    "permissionsAudio": "Access rights to the microphone are required to record audio recordings",
+    "retry": "Retry",
+    "pressToRecord": "Press to record",
+    "pressToStop": "Press to stop",
+    "Information": "Information"
+  },
+  "Faq": {
+    "header": "FAQ",
+    "faqTitle": "Frequently asked questions to XY",
+    "questions": {
+      "1": {
+        "title": "Test question 1?",
+        "answer": "Test answer 1"
+      },
+      "2": {
+        "title": "Test question 2?",
+        "answer": "Test answer 2"
+      },
+      "3": {
+        "title": "Test question 3?",
+        "answer": "Test answer 3"
+      },
+      "4": {
+        "title": "Test question 4?",
+        "answer": "Test answer 4"
+      }
+    }
+  }
+}
